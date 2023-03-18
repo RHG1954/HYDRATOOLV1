@@ -13,6 +13,12 @@ PATH THE PROGRAMME
 C:/projec/hydra.exe
 
 #RESET FRP SAMMSUN  MODEL 
+
+
+
+
+
+
 SM-A310F
  SM-A310FD
  SM-A310M 
